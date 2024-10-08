@@ -1,2 +1,2 @@
 # Compiler
-A project composing a Lexical Analyser, Syntax Analyser and Code Generator for a compiler
+A project composed of a Lexical Analyser, Syntax Analyser and Code Generator for a compiler
